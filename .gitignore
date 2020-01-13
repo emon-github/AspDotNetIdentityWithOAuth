@@ -3,3 +3,6 @@
 ################################################################################
 
 /AspNetIdentity/.vs/AspNetIdentity
+/AspNetIdentity/AspNetIdentity.WebApi/bin
+/AspNetIdentity/AspNetIdentity.WebApi/obj/Debug
+/AspNetIdentity/packages
